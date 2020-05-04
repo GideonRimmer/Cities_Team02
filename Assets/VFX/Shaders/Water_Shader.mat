@@ -35,18 +35,29 @@ Material:
         m_Texture: {fileID: 2800000, guid: 5ecdf6185782a0147b1d8313a2b41093, type: 3}
         m_Scale: {x: 0.5, y: 0.4}
         m_Offset: {x: 0, y: 0}
+    - _Norm1:
+        m_Texture: {fileID: 2800000, guid: de0090fec273e034c957e22731da235b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Norm2:
+        m_Texture: {fileID: 2800000, guid: a5340b212baeb6843bfcbf98adc8c488, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _texcoord:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _AddPower: 0.75
-    - _Alpha: 0.75
+    - _Alpha: 0.3
+    - _Cutoff: 0.5
     - _Float1: 0.2
+    - _Normal_Power: 3
+    - _Smoothness: 0.9
     - _TexPower: 1
     - __dirty: 0
     m_Colors:
-    - _Color: {r: 0.56559277, g: 0.6877469, b: 0.7735849, a: 0}
+    - _Color: {r: 0.6, g: 0.7647059, b: 0.96078426, a: 0}
     - _Color2: {r: 0.29214135, g: 0.33034056, b: 0.6132076, a: 0}
     - _Speed_Distort: {r: 0, g: 0.5, b: 0, a: 0}
     - _Speed_MainNoise: {r: 0.1, g: 0.3, b: -0.15, a: 0.5}
