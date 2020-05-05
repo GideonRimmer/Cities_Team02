@@ -12,6 +12,6 @@ EditorBuildSettings:
     path: 
     guid: ae827b0911ccdd146ac15e245084bd91
   - enabled: 1
-    path: Assets/3DGamekitLite/Scenes/3dKitSampleScene.unity
+    path: Assets/3DGamekitLite/Scenes/Sophietestscene.unity
     guid: 909eae0a86a874343814249666c98cb9
   m_configObjects: {}
