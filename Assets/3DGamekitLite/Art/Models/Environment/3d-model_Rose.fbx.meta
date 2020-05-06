@@ -3,7 +3,25 @@ guid: d3456e616c85e254c9917f95327f6c38
 ModelImporter:
   serializedVersion: 19300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_rose.dxf_001
+    second: {fileID: 6199465101704617706, guid: b7ef45b549a3a2f479e97cad051a3355,
+      type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_rose.dxf_002
+    second: {fileID: -2276547235416272508, guid: 4693f4b8b5b265a4ca854838bb2a5321,
+      type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_rose.dxf_003
+    second: {fileID: -6478536213147159724, guid: 03754f32595de7344b9e1416a46d1db4,
+      type: 3}
   materials:
     materialImportMode: 1
     materialName: 0
