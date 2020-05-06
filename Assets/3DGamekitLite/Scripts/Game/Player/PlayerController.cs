@@ -148,6 +148,15 @@ namespace Gamekit3D
 
             meleeWeapon.SetOwner(gameObject);
 
+            foreach (Animator a in GetComponentsInChildren<Animator>())
+            {
+                if (a != m_Animator)
+                {
+                    m_Animator.avatar = a.avatar;
+                    a.enabled = false;
+                }
+            }
+
             s_Instance = this;
         }
 
