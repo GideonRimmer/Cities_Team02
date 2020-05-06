@@ -6,7 +6,22 @@ ModelImporter:
   - first:
       74: -203655887218126122
     second: Sitting Disbelief
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body_low
+    second: {fileID: 2100000, guid: ee3cccc0c870b6a4faa32a71ff9f81dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dress_low
+    second: {fileID: 2100000, guid: 94763efd81bffad4eadaf7e236a8e068, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair_low
+    second: {fileID: 2100000, guid: 9f744707dbf64f444bb083c0652c93ef, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0

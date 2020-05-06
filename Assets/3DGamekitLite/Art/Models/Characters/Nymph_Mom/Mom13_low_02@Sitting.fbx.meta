@@ -6,7 +6,22 @@ ModelImporter:
   - first:
       74: -203655887218126122
     second: Sitting
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body_low
+    second: {fileID: 2100000, guid: 769c75625b079a145a04a84ef2612a32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dress_low
+    second: {fileID: 2100000, guid: 5084e332ac36f364db0704de172efa1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair_low
+    second: {fileID: 2100000, guid: 58a0203c3ed33004eb8bf44094738a3a, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
