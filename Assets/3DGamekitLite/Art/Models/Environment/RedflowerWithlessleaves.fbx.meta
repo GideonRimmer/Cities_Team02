@@ -3,7 +3,17 @@ guid: 96689b636558c4da883d4ccc24158ed3
 ModelImporter:
   serializedVersion: 19300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RedFlowerLeaf
+    second: {fileID: 2100000, guid: d1dae35fac529416589254c3801f9042, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: redleafmaterial
+    second: {fileID: 2100000, guid: 110eda4e484cb416e82cb26ce5d23b68, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0

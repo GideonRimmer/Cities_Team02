@@ -3,7 +3,22 @@ guid: 1e1ab3f6d99144ba7bfef0fd9a16d2c5
 ModelImporter:
   serializedVersion: 19300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LEafmateriawaterlily
+    second: {fileID: 2100000, guid: 237d2f891c0776542a8db938561f6f37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 01ea60fc4736e9c448c939f8ec6b490d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 656d3e2aa83999d45a4547207db50047, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
